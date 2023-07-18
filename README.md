@@ -22,4 +22,9 @@ mosaic_level = 16  # Adjust mosaic level as desired
 
 ```
 
+# Virtual_studio
+- If you want hide background, plz check this repository.
+
+https://github.com/mi-kaneyon/Virtual_Studio
+
 Manyan3 --
