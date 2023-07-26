@@ -1,4 +1,4 @@
-# person_privacy（プライバシー保護しています）
+# person_privacy（プライバシー保護？ツール）
 This is simple person covered by mosaic
 これは人間だけモザイクをかけるシンプルツールです。
 
