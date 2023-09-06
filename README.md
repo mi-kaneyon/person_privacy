@@ -2,6 +2,12 @@
 This is simple person covered by mosaic
 これは人間だけモザイクをかけるシンプルツールです。
 
+# Update
+- Learn＿PersonMosaic.ipynb
+- Little kids can enjoy him/herself magic figure
+https://github.com/mi-kaneyon/person_privacy/tree/main/jupyter
+
+
 ## command line
 
 ```
